@@ -1,0 +1,8 @@
+1. Understand and test the Raspberry pi hardware set. Integrate C/C++/Python (weeks 1-2)
+2. Set up hardware configuration and conduct I/O signal test (weeks 3-5)
+3. Concept development; Search for and gain access to a specific database needed (week 6)
+4. Get the hardware to take and interpret voice commands involving the menus and other options we’re looking through (week 7-8) 
+5. Search through the database and finish a complete response mechanism (week 9) 
+6. Design user interface and product appearance (week 10)
+7. Functional Test: Return a voice response containing the relevant information from the database (week 13)
+8. If time permits implements other application with different database. Start from step 3.
