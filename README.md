@@ -15,4 +15,6 @@
 ###### Commit small and commit often to avoid conflict errors
 
 ## Set up a Google Cloud Platform Account
+Navigate to [Google Cloud Platform](https://cloud.google.com/)
+
 
