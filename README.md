@@ -9,7 +9,9 @@
 4. Sync your repo with the master repo
 
    ```git fetch upstream``` to fetch the original repo
+   
    ```git checkout master```	to checkout your master branch
+   
    ```git merge upstream/master``` to merges the original repo with your master branch.
 
 ###### Commit small and commit often to avoid conflict errors
