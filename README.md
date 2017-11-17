@@ -29,5 +29,6 @@ In the search bar, search for the Voice Assistant Project.
 ## Creating your first application
 Navigate to [Actions on Google](https://developers.google.com/actions/)
 
-1. Select the Guides tab and create the Silly-Name Maker application with Dialogflow
+   1. Select the Guides tab and create the Silly-Name Maker application with Dialogflow
 
+   2. When creating a new project you will select the ```voice-assistant-181005``` from  the google projects drop-down menu
