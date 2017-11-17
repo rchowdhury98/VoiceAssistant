@@ -28,7 +28,7 @@ Navigate to [Actions on Google](https://developers.google.com/actions/)
 
 ## Setting up a new Pi AIY Kit
 Follow the [instructions](https://aiyprojects.withgoogle.com/voice)
-#### The JSON file you need to download is located in your Google Cloud Account. 
-#### Navigate to your Voice Assistant project, find the RCOS credentials and click the download arrow.
+###### The JSON file you need to download is located in your Google Cloud Account. 
+###### Navigate to your Voice Assistant project, find the RCOS credentials and click the download arrow.
 
 
