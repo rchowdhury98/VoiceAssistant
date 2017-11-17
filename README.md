@@ -1,5 +1,10 @@
 # VoiceAssistant
 
+## Setting up a new Pi AIY Kit
+Follow the [instructions](https://aiyprojects.withgoogle.com/voice)
+###### The JSON file you need to download is located in your Google Cloud Account. 
+###### Navigate to your Voice Assistant project, find the RCOS credentials and click the download arrow.
+
 ## Set up a local environment
 1. Fork the repo
 2. open Terminal and clone your repo:
@@ -25,10 +30,4 @@ In the search bar, search for the Voice Assistant Project.
 Navigate to [Actions on Google](https://developers.google.com/actions/)
 
 1. Select the Guides tab and create the Silly-Name Maker application with Dialogflow
-
-## Setting up a new Pi AIY Kit
-Follow the [instructions](https://aiyprojects.withgoogle.com/voice)
-###### The JSON file you need to download is located in your Google Cloud Account. 
-###### Navigate to your Voice Assistant project, find the RCOS credentials and click the download arrow.
-
 
