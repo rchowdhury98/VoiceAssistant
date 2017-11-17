@@ -1,11 +1,12 @@
 # VoiceAssistant
 
-## Fork the repo
-1. open Terminal and clone your repo:
+## Set up a local environment
+1. Fork the repo
+2. open Terminal and clone your repo:
    ```git clone https://github.com/[YOUR_USERNAME_HERE]/VoiceAssistant.git```
-2. Connect to the original repo
+3. Connect to the original repo
    ```git remote add upstream https://github.com/rchowdhury98/VoiceAssistant.git```
-3. Sync your repo with the master repo
+4. Sync your repo with the master repo
 
    ```git fetch upstream``` to fetch the original repo
    ```git checkout master```	to checkout your master branch
