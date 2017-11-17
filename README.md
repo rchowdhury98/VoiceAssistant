@@ -23,6 +23,7 @@ In the search bar, search for the Voice Assistant Project.
    
 ## Creating your first application
 Navigate to [Actions on Google](https://developers.google.com/actions/)
+
 1. Select the Guides tab and create the Silly-Name Maker application with Dialogflow
 
 ## Setting up a new Pi AIY Kit
