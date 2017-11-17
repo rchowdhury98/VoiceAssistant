@@ -21,10 +21,11 @@ In the search bar, search for the Voice Assistant Project.
    ID number: ```voice-assistant-181005```
    
 #### Only do this step when setting up a new AIY-Voice Assistant Project
-   To download the proper authentication JSON navigate to credentials
-   Find RCOS OAuth 2.0 client ID and click the down arrow to download the proper Authentication file.
+   ######To download the proper authentication JSON navigate to credentials
+   ######Find RCOS OAuth 2.0 client ID and click the down arrow to download the proper Authentication file.
    
-
+## Dialogflow
+## Actions on Google
 
 
 
