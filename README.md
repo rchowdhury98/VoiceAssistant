@@ -24,8 +24,8 @@ In the search bar, search for the Voice Assistant Project.
    ######To download the proper authentication JSON navigate to credentials
    ######Find RCOS OAuth 2.0 client ID and click the down arrow to download the proper Authentication file.
    
-## Dialogflow
-## Actions on Google
-
+## Creating your first application
+Navigate to [Actions on Google](https://developers.google.com/actions/)
+1. Select the Guides tab and create the Silly-Name Maker application with Dialogflow
 
 
