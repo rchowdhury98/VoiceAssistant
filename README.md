@@ -15,6 +15,10 @@
 ###### Commit small and commit often to avoid conflict errors
 
 ## Set up a Google Cloud Platform Account
-Navigate to [Google Cloud Platform](https://cloud.google.com/)
+Navigate to [Google Cloud Platform](https://cloud.google.com/) and set up an account.
+
+In the search bar, search for the Voice Assistant Project.
+   ID number: ```voice-assistant-181005```
+
 
 
