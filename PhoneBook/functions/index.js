@@ -25,8 +25,13 @@ exports.PhoneBook = functions.https.onRequest((request, response) => {
 	//grabs the department name from the google assistant input
 	let office = app.getArgument(DEPARTMENT_NAME);
 	//outputs the message to the google assistant
-	app.tell('The phone number for the ' + office + ' is.');
-      
+	if(office == 'Bursar'){
+	    app.tell('The phone number for the ' + office + ' is 518-276-6610.')
+	}else if(office == 'Registrar'){
+	    app.tell('The phone number for the ' + office + ' is 518-276-6810');
+	}else{
+	    app.tell('Sorry  I currently cannot help with that. I will try to do better in the future')
+	}
   }
   // build an action map, which maps intent names to functions
   let actionMap = new Map();
